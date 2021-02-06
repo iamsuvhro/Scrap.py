@@ -1,0 +1,12 @@
+Steps will be
+1. Install selenium just copy this line and paste into your timeline --->  pip install selenium if you are using anaconda then type ---> conda install selenium
+2. Paste the Scrap.py folder inside your C:\\Users\<Your system name>\ paste here in this location
+3. Go to cmd and type jupyter notebook
+4. Then you will see the folder named "Scrap.py" inside the jupyter notebook click and open you will see a file named Scrapping_Script.ipynb Open it
+5. After that you have to copy your dataset into Scarp.py folder 
+6. Copy your dataset path 
+7. Paste your dataset path in the variable called "data_link"
+8. Set loop number starting and ending
+9. Now all set you are eligble to execute the script
+
+*Note: after each compilation dont forget to change the generated csv name otherwise after second compilation you will lost the pervious extracted data
